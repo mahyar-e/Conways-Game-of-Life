@@ -1,4 +1,4 @@
-# Conways-Game-of-Life
+# Conways Game of Life
 
 Conway's Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. The game is played on a grid of cells, where each cell can be either alive or dead.
 
@@ -57,7 +57,7 @@ In order to begin the simulation you need to have these libraries installed:
 
 You can easily install the libraries via the following command:
 
-````pip install [name of the library]```
+```pip install [name of the library]```
 
 You can also manipulate the rules of the game to see what will happen if you chanhe the rules of the game. A few examples are included in the file, like game of life considering the second neighbor, dead cells have a chance to come to life and etc.
 
